@@ -2,7 +2,7 @@
 Project contains the following features implemented:
 
 - User authorization
-- Group video calls (up to 4 users)
+- Group video calls 
 - Mute/unmute microphone
 - Switch cameras
 
